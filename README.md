@@ -12,7 +12,7 @@ A simple notes-taking application built with React and styled using Tailwind CSS
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://my-notes-ivory.vercel.app/).
 
 
 
